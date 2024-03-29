@@ -1,0 +1,8 @@
+gtktest
+
+
+Makefile
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+
